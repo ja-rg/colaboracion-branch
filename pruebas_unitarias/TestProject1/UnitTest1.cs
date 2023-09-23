@@ -2,7 +2,7 @@ namespace pruebas_unitarias
 {
     public class Tests
     {
-        Funciones funciones;
+        private Funciones funciones { get; set; } = null!;
         [SetUp]
         public void Setup()
         {
@@ -12,17 +12,12 @@ namespace pruebas_unitarias
         [Test]
         public void EsPar()
         {
-            int a = 10;
-            bool resultadoEsperado = true;
-            if (resultadoEsperado)
+            int a = 10, b = 21;
+            Assert.Multiple(() =>
             {
-                Assert.IsTrue(Funciones.EsPar(a));
-            }
-            else
-            {
-                Assert.IsFalse(Funciones.EsPar(a));
-            }
-            Assert.Pass();
+                Assert.That(Funciones.EsPar(a), Is.True);
+                Assert.That(Funciones.EsPar(b), Is.False);
+            });
         }
     }
 }
