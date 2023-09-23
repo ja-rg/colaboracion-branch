@@ -16,11 +16,11 @@ namespace pruebas_unitarias
             bool resultadoEsperado = true;
             if (resultadoEsperado)
             {
-                Assert.IsTrue(funciones.esPar(a));
+                Assert.IsTrue(Funciones.EsPar(a));
             }
             else
             {
-                Assert.IsFalse(funciones.esPar(a));
+                Assert.IsFalse(Funciones.EsPar(a));
             }
             Assert.Pass();
         }

@@ -8,7 +8,7 @@ namespace pruebas_unitarias
 {
     public class Funciones
     {
-        public bool esPar(int num)
+        public static bool EsPar(int num)
         {
             if ((num % 2) == 0)
                 return true;
