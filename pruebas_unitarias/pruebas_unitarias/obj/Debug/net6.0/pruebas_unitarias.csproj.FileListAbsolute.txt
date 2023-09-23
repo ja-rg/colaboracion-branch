@@ -1,0 +1,14 @@
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.exe
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.deps.json
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.runtimeconfig.json
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.dll
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.pdb
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfoInputs.cache
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfo.cs
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.dll
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\refint\pruebas_unitarias.dll
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.pdb
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.genruntimeconfig.cache
+D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\ref\pruebas_unitarias.dll
