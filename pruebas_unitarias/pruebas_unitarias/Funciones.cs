@@ -15,5 +15,9 @@ namespace pruebas_unitarias
             else
                 return false;
         }
+        public static bool EsDivisibleEntre3(int num)
+        {
+            return (num % 3) == 0;
+        }
     }
 }

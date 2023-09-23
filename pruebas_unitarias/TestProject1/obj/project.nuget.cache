@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1f3Eod9BwD7+V5e9ZYMymSV5i4/OrWSdj9BI/E9Bd9QlF9/k3BZRMcb7Be1ToU0Rha+AdfuNAo5eont9sERsQ==",
+  "dgSpecHash": "9Qvw3ptnOYjPjbFEKAsIyh+s6/W1zWpIlq+5ccU9IQsAvHeZYbXnj418dsX0xX/HmiZXBh8G2LsR6g7CLp+qhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\colaboracion-branch\\pruebas_unitarias\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Source\\Repos\\colaboracion-branch\\pruebas_unitarias\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
