@@ -1003,19 +1003,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ruber\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Universidad La Salle, A.C\\uni\\SEPTIMO SEMESTRE\\Ingenieria de software\\a\\pruebas_unitarias\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\colaboracion-branch\\pruebas_unitarias\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "D:\\OneDrive - Universidad La Salle, A.C\\uni\\SEPTIMO SEMESTRE\\Ingenieria de software\\a\\pruebas_unitarias\\TestProject1\\TestProject1.csproj",
-      "packagesPath": "C:\\Users\\ruber\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Universidad La Salle, A.C\\uni\\SEPTIMO SEMESTRE\\Ingenieria de software\\a\\pruebas_unitarias\\TestProject1\\obj\\",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\colaboracion-branch\\pruebas_unitarias\\TestProject1\\TestProject1.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\colaboracion-branch\\pruebas_unitarias\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1029,8 +1029,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\OneDrive - Universidad La Salle, A.C\\uni\\SEPTIMO SEMESTRE\\Ingenieria de software\\a\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj": {
-              "projectPath": "D:\\OneDrive - Universidad La Salle, A.C\\uni\\SEPTIMO SEMESTRE\\Ingenieria de software\\a\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj"
+            "C:\\Users\\admin\\source\\repos\\colaboracion-branch\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\colaboracion-branch\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj"
             }
           }
         }
