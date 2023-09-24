@@ -19,5 +19,16 @@ namespace pruebas_unitarias
                 Assert.That(Funciones.EsPar(b), Is.False);
             });
         }
+
+        [Test]
+        public void EsDivisibleEntre3()
+        {
+            int a = 10, b = 21;
+            Assert.Multiple(() =>
+            {
+                Assert.That(Funciones.EsDivisibleEntre3(a), Is.False);
+                Assert.That(Funciones.EsDivisibleEntre3(b), Is.True);
+            });
+        }
     }
 }
