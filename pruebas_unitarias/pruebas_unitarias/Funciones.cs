@@ -19,5 +19,10 @@ namespace pruebas_unitarias
         {
             return (num % 3) == 0;
         }
+
+        public static bool EsDivisibleEntre4(int num)
+        {
+            return (num % 4) == 0;
+        }
     }
 }
