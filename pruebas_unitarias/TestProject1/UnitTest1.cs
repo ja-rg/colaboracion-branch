@@ -34,7 +34,7 @@ namespace pruebas_unitarias
         [Test]
         public void EsDivisibleEntre4()
         {
-            int a = 10, b = 21;
+            int a = 12, b = 21;
             Assert.Multiple(() =>
             {
                 Assert.That(Funciones.EsDivisibleEntre4(a), Is.True);
