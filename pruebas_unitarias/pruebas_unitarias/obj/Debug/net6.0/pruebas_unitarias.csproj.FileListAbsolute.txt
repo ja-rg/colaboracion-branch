@@ -26,3 +26,17 @@ C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitar
 C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.pdb
 C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.genruntimeconfig.cache
 C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\ref\pruebas_unitarias.dll
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.exe
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.deps.json
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.runtimeconfig.json
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.dll
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.pdb
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfoInputs.cache
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfo.cs
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.dll
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\refint\pruebas_unitarias.dll
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.pdb
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.genruntimeconfig.cache
+C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\ref\pruebas_unitarias.dll
