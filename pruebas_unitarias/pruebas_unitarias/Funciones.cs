@@ -24,5 +24,9 @@ namespace pruebas_unitarias
         {
             return (num % 4) == 0;
         }
+        public static bool EsDivisibleEntre5(int num)
+        {
+            return (num % 5) == 0;
+        }
     }
 }
