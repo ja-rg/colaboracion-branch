@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\oscar\\.nuget\\packages\\": {}
+    "/Users/alex-rg/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oscar\\Source\\Repos\\colaboracion-branch\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj",
+      "projectUniqueName": "/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/pruebas_unitarias.csproj",
       "projectName": "pruebas_unitarias",
-      "projectPath": "C:\\Users\\oscar\\Source\\Repos\\colaboracion-branch\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj",
-      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oscar\\Source\\Repos\\colaboracion-branch\\pruebas_unitarias\\pruebas_unitarias\\obj\\",
+      "projectPath": "/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/pruebas_unitarias.csproj",
+      "packagesPath": "/Users/alex-rg/.nuget/packages/",
+      "outputPath": "/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/alex-rg/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }

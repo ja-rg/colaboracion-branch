@@ -1,42 +1,57 @@
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.exe
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.deps.json
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.runtimeconfig.json
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.dll
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.pdb
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfoInputs.cache
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfo.cs
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.csproj.CoreCompileInputs.cache
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.dll
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\refint\pruebas_unitarias.dll
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.pdb
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.genruntimeconfig.cache
-D:\OneDrive - Universidad La Salle, A.C\uni\SEPTIMO SEMESTRE\Ingenieria de software\a\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\ref\pruebas_unitarias.dll
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.exe
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.deps.json
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.runtimeconfig.json
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.dll
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.pdb
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfoInputs.cache
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfo.cs
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.dll
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\refint\pruebas_unitarias.dll
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.pdb
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.genruntimeconfig.cache
-C:\Users\admin\source\repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\ref\pruebas_unitarias.dll
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.exe
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.deps.json
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.runtimeconfig.json
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.dll
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\bin\Debug\net6.0\pruebas_unitarias.pdb
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfoInputs.cache
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.AssemblyInfo.cs
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.csproj.CoreCompileInputs.cache
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.dll
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\refint\pruebas_unitarias.dll
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.pdb
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\pruebas_unitarias.genruntimeconfig.cache
-C:\Users\oscar\Source\Repos\colaboracion-branch\pruebas_unitarias\pruebas_unitarias\obj\Debug\net6.0\ref\pruebas_unitarias.dll
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.exe
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.deps.json
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.runtimeconfig.json
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.dll
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.pdb
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfoInputs.cache
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfo.cs
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.csproj.CoreCompileInputs.cache
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.dll
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/refint/pruebas_unitarias.dll
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.pdb
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.genruntimeconfig.cache
+D:/OneDrive - Universidad La Salle, A.C/uni/SEPTIMO SEMESTRE/Ingenieria de software/a/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/ref/pruebas_unitarias.dll
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.exe
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.deps.json
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.runtimeconfig.json
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.dll
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.pdb
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfoInputs.cache
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfo.cs
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.csproj.CoreCompileInputs.cache
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.dll
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/refint/pruebas_unitarias.dll
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.pdb
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.genruntimeconfig.cache
+C:/Users/admin/source/repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/ref/pruebas_unitarias.dll
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.exe
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.deps.json
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.runtimeconfig.json
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.dll
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.pdb
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfoInputs.cache
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfo.cs
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.csproj.CoreCompileInputs.cache
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.dll
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/refint/pruebas_unitarias.dll
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.pdb
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.genruntimeconfig.cache
+C:/Users/oscar/Source/Repos/colaboracion-branch/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/ref/pruebas_unitarias.dll
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.deps.json
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.runtimeconfig.json
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.dll
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/bin/Debug/net6.0/pruebas_unitarias.pdb
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.csproj.AssemblyReference.cache
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfoInputs.cache
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.AssemblyInfo.cs
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.csproj.CoreCompileInputs.cache
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.dll
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/refint/pruebas_unitarias.dll
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.pdb
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/pruebas_unitarias.genruntimeconfig.cache
+/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/obj/Debug/net6.0/ref/pruebas_unitarias.dll
