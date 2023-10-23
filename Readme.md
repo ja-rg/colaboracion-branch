@@ -16,7 +16,11 @@ Hemos agregado líneas de logueo en nuestras pruebas unitarias para monitorear e
 - Info: Indica el inicio y finalización de una prueba.
 
 ## Screenshots
+### Archivo de pruebas unitarias:
+![unit](https://pasteboard.co/jZasXYoAaYCb.png)
 
+### Archivo de log
+![logging](https://gcdnb.pbrd.co/images/WRPrefvtToww.png?o=1)
 
 ## Configuración de Nivel de Logging
 Para cambiar el nivel de logging, dirigirse al archivo de configuración de `log4net`. Los valores válidos incluyen: DEBUG, INFO, WARN, ERROR y FATAL.
