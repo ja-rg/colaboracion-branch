@@ -1,0 +1,12 @@
+2023-10-23 15:49:47,994 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-23 15:49:48,003 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-23 15:49:48,006 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-23 15:49:48,014 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-23 15:49:48,014 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-23 15:49:48,014 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-23 15:49:48,016 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-23 15:49:48,016 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-23 15:49:48,017 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-23 15:49:48,018 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-23 15:49:48,018 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-23 15:49:48,019 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.

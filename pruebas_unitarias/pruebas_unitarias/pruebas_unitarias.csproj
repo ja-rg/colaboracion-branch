@@ -6,4 +6,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.15" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\application.log">
+      <Link>application.log</Link>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="log4net-config.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>

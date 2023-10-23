@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Ci3l/cyfAMfCTk0t1QCilwdA+zPu6gAk+YMr8iC7gOP4ObtffiC0AT/vXW2+tP1PYgrROB7IWKQ8GdWBcz2pBQ==",
+  "dgSpecHash": "a0pFefJNmSIkYW59Gd30DDs7N6BEmifY3QDUmyjWNT/f/Eul+24MHFO/TIGS8vHkBUUiHD0WELo+xo5ecEL3NA==",
   "success": true,
   "projectFilePath": "/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/pruebas_unitarias.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/alex-rg/.nuget/packages/log4net/2.0.15/log4net.2.0.15.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

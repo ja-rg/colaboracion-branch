@@ -1,22 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "k+/uY0DtUZ+N23rM2F3eCWlyK/l0v5VhoAM3/1tInZj/dZKg5EMlY1cPUzpSjpe+JoO/3X1Ayb31IRUu1bRHoA==",
+  "dgSpecHash": "3yhk36fyKVHguHdcLn7u0170xgyPdBduElAel8hS/+GoNKc5TDSAqMPg2TKz7bw47cPmbadZl3CyyRyDtcQsTg==",
   "success": true,
   "projectFilePath": "/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/TestProject1/TestProject1.csproj",
   "expectedPackageFiles": [
-    "/Users/alex-rg/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/log4net/2.0.15/log4net.2.0.15.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/microsoft.codecoverage/17.7.2/microsoft.codecoverage.17.7.2.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/microsoft.net.test.sdk/17.7.2/microsoft.net.test.sdk.17.7.2.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/microsoft.testplatform.objectmodel/17.7.2/microsoft.testplatform.objectmodel.17.7.2.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/microsoft.testplatform.testhost/17.7.2/microsoft.testplatform.testhost.17.7.2.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
     "/Users/alex-rg/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/alex-rg/.nuget/packages/nunit.analyzers/3.8.0/nunit.analyzers.3.8.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/Users/alex-rg/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
