@@ -17,7 +17,7 @@ Hemos agregado líneas de logueo en nuestras pruebas unitarias para monitorear e
 
 ## Screenshots
 ### Archivo de pruebas unitarias:
-![image](https://github.com/ja-rg/unit-test-Arqui/assets/98922270/81ee807a-c587-4750-bd1a-e9888b36553d)
+![pruebas](https://gcdnb.pbrd.co/images/jZasXYoAaYCb.png?o=1)
 
 ### Archivo de log
 ![logging](https://gcdnb.pbrd.co/images/WRPrefvtToww.png?o=1)
