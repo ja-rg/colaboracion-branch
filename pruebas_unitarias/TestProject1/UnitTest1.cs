@@ -79,5 +79,17 @@ namespace pruebas_unitarias
 
             log.Info("Finalizando prueba EsDivisibleEntre5.");
         }
+
+        [Test]
+        public void Division2Numeros()
+        {
+            int a = 10, b = 5, c = 14, d = 0;
+            Assert.Multiple(() =>
+            {
+                Assert.That(Funciones.DivisionDosNumeros(a, b), Is.EqualTo(2));
+                Assert.That(Funciones.DivisionDosNumeros(c, b), Is.EqualTo(2));
+                Assert.That(Funciones.DivisionDosNumeros(a, d), Is.EqualTo(0));
+            });
+        }
     }
 }

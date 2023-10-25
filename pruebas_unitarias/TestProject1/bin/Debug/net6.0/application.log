@@ -10,3 +10,102 @@
 2023-10-23 15:49:48,018 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
 2023-10-23 15:49:48,018 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
 2023-10-23 15:49:48,019 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
+2023-10-24 23:02:32,289 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:32,448 [NonParallelWorker] FATAL pruebas_unitarias.Funciones - Se intentó una división entre 0
+2023-10-24 23:02:32,464 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:32,464 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-24 23:02:32,464 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:02:32,465 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:02:32,465 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-24 23:02:32,468 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:32,468 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-24 23:02:32,468 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-24 23:02:32,470 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:32,471 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-24 23:02:32,471 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-24 23:02:32,473 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:32,474 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-24 23:02:32,474 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
+2023-10-24 23:02:46,572 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:46,590 [NonParallelWorker] FATAL pruebas_unitarias.Funciones - Se intentó una división entre 0
+2023-10-24 23:02:46,597 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:46,598 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-24 23:02:46,598 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:02:46,599 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:02:46,599 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-24 23:02:46,603 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:46,603 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-24 23:02:46,603 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-24 23:02:46,606 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:46,607 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-24 23:02:46,607 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-24 23:02:46,611 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:02:46,612 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-24 23:02:46,612 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
+2023-10-24 23:13:01,643 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:13:01,660 [NonParallelWorker] FATAL pruebas_unitarias.Funciones - Se intentó una división entre 0
+2023-10-24 23:13:01,682 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:13:01,683 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-24 23:13:01,683 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:13:01,683 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:13:01,684 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-24 23:13:01,687 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:13:01,687 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-24 23:13:01,687 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-24 23:13:01,690 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:13:01,691 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-24 23:13:01,691 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-24 23:13:01,694 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:13:01,694 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-24 23:13:01,694 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
+2023-10-24 23:14:53,472 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:14:53,495 [NonParallelWorker] WARN  pruebas_unitarias.Funciones - El resultado quedó redondeado
+2023-10-24 23:14:53,495 [NonParallelWorker] FATAL pruebas_unitarias.Funciones - Se intentó una división entre 0
+2023-10-24 23:14:53,518 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:14:53,519 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-24 23:14:53,519 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:14:53,520 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:14:53,521 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-24 23:14:53,524 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:14:53,524 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-24 23:14:53,524 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-24 23:14:53,528 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:14:53,528 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-24 23:14:53,529 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-24 23:14:53,532 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:14:53,532 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-24 23:14:53,533 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
+2023-10-24 23:15:23,548 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:23,565 [NonParallelWorker] WARN  pruebas_unitarias.Funciones - El resultado quedó redondeado
+2023-10-24 23:15:23,630 [NonParallelWorker] FATAL pruebas_unitarias.Funciones - Se intentó una división entre 0
+2023-10-24 23:15:23,646 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:23,647 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-24 23:15:23,647 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:15:23,647 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:15:23,648 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-24 23:15:23,650 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:23,650 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-24 23:15:23,651 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-24 23:15:23,653 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:23,653 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-24 23:15:23,653 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-24 23:15:23,656 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:23,656 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-24 23:15:23,656 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
+2023-10-24 23:15:43,957 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:43,982 [NonParallelWorker] WARN  pruebas_unitarias.Funciones - El resultado quedó redondeado
+2023-10-24 23:15:43,982 [NonParallelWorker] FATAL pruebas_unitarias.Funciones - Se intentó una división entre 0
+2023-10-24 23:15:43,993 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:43,993 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre3.
+2023-10-24 23:15:43,993 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:15:43,994 [NonParallelWorker] DEBUG pruebas_unitarias.Funciones - Usa la operacion de modulo para comprobar si es divisible entre 3
+2023-10-24 23:15:43,995 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre3.
+2023-10-24 23:15:43,998 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:43,998 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre4.
+2023-10-24 23:15:43,998 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre4.
+2023-10-24 23:15:44,001 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:44,002 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsDivisibleEntre5.
+2023-10-24 23:15:44,002 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsDivisibleEntre5.
+2023-10-24 23:15:44,007 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Inicialización de las pruebas.
+2023-10-24 23:15:44,007 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Iniciando prueba EsPar.
+2023-10-24 23:15:44,008 [NonParallelWorker] INFO  pruebas_unitarias.Tests - Finalizando prueba EsPar.
