@@ -18,9 +18,11 @@ Hemos agregado líneas de logueo en nuestras pruebas unitarias para monitorear e
 ## Screenshots
 ### Archivo de pruebas unitarias:
 ![pruebas](https://gcdnb.pbrd.co/images/jZasXYoAaYCb.png?o=1)
+![pruebas2](https://gcdnb.pbrd.co/images/xnrMHDKYcCNW.jpg?o=1)
 
 ### Archivo de log
 ![logging](https://gcdnb.pbrd.co/images/WRPrefvtToww.png?o=1)
+![logging2](https://gcdnb.pbrd.co/images/Cho8nCI0vvtf.jpg?o=1)
 
 
 ## Configuración de Nivel de Logging
