@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "a0pFefJNmSIkYW59Gd30DDs7N6BEmifY3QDUmyjWNT/f/Eul+24MHFO/TIGS8vHkBUUiHD0WELo+xo5ecEL3NA==",
+  "dgSpecHash": "BsroecsoR7DlY0oNfL1/T6Oyc4TzTx08MT2fQNqLGWk7BwIpS6gsUPH1y642bdEO3pqaK5cQeFOOpuYzOoA4WQ==",
   "success": true,
-  "projectFilePath": "/Users/alex-rg/Projects/unit-test-Arqui/pruebas_unitarias/pruebas_unitarias/pruebas_unitarias.csproj",
+  "projectFilePath": "D:\\OneDrive - Universidad La Salle, A.C\\uni\\SEPTIMO SEMESTRE\\Ingenieria de software\\git\\colaboracion-branch\\pruebas_unitarias\\pruebas_unitarias\\pruebas_unitarias.csproj",
   "expectedPackageFiles": [
-    "/Users/alex-rg/.nuget/packages/log4net/2.0.15/log4net.2.0.15.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
-    "/Users/alex-rg/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512"
+    "C:\\Users\\ruber\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\ruber\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ruber\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\ruber\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ruber\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\ruber\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\ruber\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
