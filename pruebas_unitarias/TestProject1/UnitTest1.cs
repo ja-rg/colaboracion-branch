@@ -84,12 +84,15 @@ namespace pruebas_unitarias
         public void Division2Numeros()
         {
             int a = 10, b = 5, c = 14, d = 0;
+            log.Info("Iniciando la prueba: Division2Numeros") //oscar
             Assert.Multiple(() =>
             {
                 Assert.That(Funciones.DivisionDosNumeros(a, b), Is.EqualTo(2));
                 Assert.That(Funciones.DivisionDosNumeros(c, b), Is.EqualTo(2));
                 Assert.That(Funciones.DivisionDosNumeros(a, d), Is.EqualTo(0));
             });
+
+            log.Info("Finalizando prueba Division2Numeros."); //oscar
         }
     }
 }
